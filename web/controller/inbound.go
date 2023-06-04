@@ -266,3 +266,7 @@ func (a *InboundController) delDepletedClients(c *gin.Context) {
 	}
 	jsonMsg(c, "All delpeted clients are deleted", nil)
 }
+func (a *InboundController) rozbeh(c *gin.Context) {
+
+	jsonMsg(c, "Rozbeh Api Worked", nil)
+}
