@@ -1,34 +1,4 @@
-# x-ui
 
-![](https://img.shields.io/github/v/release/alireza0/x-ui.svg)
-![](https://img.shields.io/docker/pulls/alireza7/x-ui.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/alireza0/x-ui)](https://goreportcard.com/report/github.com/alireza0/x-ui)
-[![Downloads](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)
-[![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-> **Disclaimer: This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment**
-
-xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese,Russian)**
-
-| Features                             |      Enable?       |
-| ------------------------------------ | :----------------: |
-| Multi-lang                           | :heavy_check_mark: |
-| Dark/Light Theme                     | :heavy_check_mark: |
-| Search in deep                       | :heavy_check_mark: |
-| Inbound Multi User                   | :heavy_check_mark: |
-| Multi User Traffic & Expiration time | :heavy_check_mark: |
-| REST API                             | :heavy_check_mark: |
-| Telegram BOT (admin + clients)       | :heavy_check_mark: |
-| Backup database using Telegram BOT   | :heavy_check_mark: |
-| Subscription link + userInfo         | :heavy_check_mark: |
-| Calculate expire date on first usage | :heavy_check_mark: |
-
-**If you think this project is helpful to you, you may wish to give a** :star2:
-
-**Buy Me a Coffee :**
-
-- Tron USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
-- Tezos (XTZ): tz2Wnh2SsY1eezXrcLChu6idWpgdHzUFQcts
 
 # Install & Upgrade to latest version
 
