@@ -35,7 +35,7 @@
 ## Install & Upgrade to latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/r0zbeh/x-ui/master/install.sh)
 ```
 
 ## Install Custom Version
